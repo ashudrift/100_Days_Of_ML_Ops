@@ -1,2 +1,2 @@
 # DataAnalysisKernel
-A collection of different analysis techniques to data analysis.
+100 Days of ML OPS  Kode Cloud Challenge
